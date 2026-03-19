@@ -89,7 +89,6 @@ I like tech and cars
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/karman-bhatti">github.com/karman-bhatti</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=120&section=footer" width="100%"/>
 
