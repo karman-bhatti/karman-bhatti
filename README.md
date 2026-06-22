@@ -17,7 +17,7 @@ Hi
 ⌖ **Location** &nbsp; Ottawa ON <br/>
 ⌗ **Experience** &nbsp; Alot <br/>
 ◎ **Education** &nbsp; Carleton University <br/>
-⟳ **Learning** &nbsp; ANSYS Simulations
+⟳ **Learning** &nbsp; ANSYS
 
 ---
 
