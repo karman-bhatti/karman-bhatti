@@ -12,7 +12,7 @@
 
 ### About
 
-I like tech and cars
+Hi
 
 ⌖ **Location** &nbsp; Ottawa ON <br/>
 ⌗ **Experience** &nbsp; Alot <br/>
